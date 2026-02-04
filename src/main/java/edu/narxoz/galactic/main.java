@@ -8,7 +8,7 @@ public class Demo {
     public static void main(String[] args) {
 
         Planet earth = new Planet("Earth", 0, 0, "Oxygen");
-        SpaceStation iss = new SpaceStation("ISS", 100, 0, 5);
+        SpaceStation SpaceStation = new SpaceStation("SpaceStation", 100, 0, 5);
 
         Cargo cargo = new Cargo(50, "Food");
 
